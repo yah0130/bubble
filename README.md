@@ -7,7 +7,7 @@
 #### 1.在 pubspec.yaml 中添加依赖
 ```
 dependencies:
-  plugin1:
+  bubble:
     git:
       url: https://github.com/yah0130/bubble.git
 ```
