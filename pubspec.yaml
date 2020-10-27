@@ -1,8 +1,8 @@
 name: bubble
 description: A chat bubble component
 version: 0.0.1
-author:
-homepage:
+author: YanHao <yanhao0130@hotmail.com>
+homepage: https://github.com/yah0130/bubble.git
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
